@@ -68,10 +68,10 @@ ABINet uses a vision model and an explicit language model to recognize text in t
 
 Get the pretrained models from [BaiduNetdisk(passwd:kwck)](https://pan.baidu.com/s/1b3vyvPwvh_75FkPlp87czQ), [GoogleDrive](https://drive.google.com/file/d/1mYM_26qHUom_5NU7iutHneB_KHlLjL5y/view?usp=sharing). Performances of the pretrained models are summaried as follows:
 
-|Model|IC13|SVT|IIIT|IC15|SVTP|CUTE|AVG|
-|-|-|-|-|-|-|-|-|
-|ABINet-SV|97.1|92.7|95.2|84.0|86.7|88.5|91.4|
-|ABINet-LV|97.0|93.4|96.4|85.9|89.5|89.2|92.7|
+| Model     | IC13 | SVT  | IIIT | IC15 | SVTP | CUTE | AVG  |
+| --------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| ABINet-SV | 97.1 | 92.7 | 95.2 | 84.0 | 86.7 | 88.5 | 91.4 |
+| ABINet-LV | 97.0 | 93.4 | 96.4 | 85.9 | 89.5 | 89.2 | 92.7 |
 
 ## Training
 
